@@ -1,7 +1,7 @@
 
 # API Economy
 
-##Business Brief
+## Business Brief
 
 An Application Programming Interface (API) is a clearly defined set of subroutine definitions, protocols, and tools used in building applications. APIs are interfaces that allow software components to communicate amongst one another. The term API economy describes the manner in which APIs can be leveraged to increase an organizations profitability. From a development standpoint, well designed APIs facilitate easier development of applications. This is because APIs can be reused and provide the building blocks for applications. For example, Companies like Uber use an API to monitor Google’s location data of the user. Popular APIs from companies like Twitter, Netflix and Google can receive between one to five billion calls a day.
 

@@ -38,6 +38,7 @@ The emergence of artificial intelligence and all its subsets will provide the GC
 ### Shared Services Canada
 
 #### Value proposition
+
 Shared Services Canada can gain a lot from AI/machine learning. Committees dedicated to cyber security can use AI to integrate various independent alerts to detect incidents. In addition, automation and machine learning can be used to remediate and prevent cyber incidents without human intervention.
 
 Following, all branches within SSC can use AI to retrieve and analyze data for their own specific needs. This will provide the public servants with support to produce precise and fast deliverables that will contribute to the overall production of SSC. The correct implementation and integration of AI will help SSC in the four areas of action known as Service, Secure, Manage and Community.
