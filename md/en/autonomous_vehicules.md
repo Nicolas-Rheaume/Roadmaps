@@ -32,9 +32,11 @@ The GC could benefit from autonomous vehicles in a variety of ways. Autonomous v
 ### Shared Services Canada
 
 #### Value proposition
+
 Shared Services Canada would benefit as a client of the services offered by this technology. The SSC could not necessarily function as a service provider of this technology.
 
 #### Challenges
+
 With the deployment of autonomous vehicles Shared Services Canada will need to concern itself with the security issues they bring forth. By placing driving the vehicle entirely in the hands of the computer would mean that the cybersecurity would need to be extensive. The implications of an individual hacking an autonomous vehicle could be very dangerous.
 
 There is also an environmental concern with regards to autonomous vehicles. If cars are made very accessible and affordable to consumers as personal vehicles this could potentially increase the amount of kilometers driven per year and in turn increase greenhouse gas emissions.
