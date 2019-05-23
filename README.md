@@ -14,3 +14,8 @@ Collaboration on Technology Briefings will save time and effort across the GC by
 4. [Application Containers](md/en/application_containers.md)
 5. [AR/VR](md/en/ar_vr.md)
 6. [Autonomous Vehicles](md/en/autonomous_vehicules.md)
+
+## Open Source
+Everyone with access to GitHub is welcome to read, contribute and refer to.
+
+**These briefs are not final versions. They will be edited, revised and changed in light of new information on the technology.
