@@ -8,9 +8,9 @@ Collaboration on Technology Briefings will save time and effort across the GC by
 
 ## List
 
-1. [5G Networks](en/5g_networks.md)
-2. [AI/Machine Learning](en/ai_machine_learning.md)
-3. [API Economy](en/api_economy.md)
-4. [Application Containers](en/application_containers.md)
-5. [AR/VR](en/ar_vr.md)
-6. [Autonomous Vehicles](en/autonomous_vehicules.md)
+1. [5G Networks](md/en/5g_networks.md)
+2. [AI/Machine Learning](md/en/ai_machine_learning.md)
+3. [API Economy](md/en/api_economy.md)
+4. [Application Containers](md/en/application_containers.md)
+5. [AR/VR](md/en/ar_vr.md)
+6. [Autonomous Vehicles](md/en/autonomous_vehicules.md)
